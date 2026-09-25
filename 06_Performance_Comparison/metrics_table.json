@@ -1,0 +1,46 @@
+{
+  "SARSA": {
+    "average_reward_last100": -838.8100000000003,
+    "episodes_to_stability": 740,
+    "cumulative_reward": -1246215.0000000005,
+    "computational_time_sec": 2.076463417004561,
+    "stability_std_last100": 140.72580804529065,
+    "policy_quality_eval_return": -870.9150000000002,
+    "success_rate_eval": 0.4972916666666667,
+    "exploration_efficiency": 218.90467972794679,
+    "mean_reward_all": -890.1535714285718
+  },
+  "Q-learning": {
+    "average_reward_last100": -858.8855000000004,
+    "episodes_to_stability": 248,
+    "cumulative_reward": -1248973.6000000006,
+    "computational_time_sec": 2.2580941670021275,
+    "stability_std_last100": 138.57583164011677,
+    "policy_quality_eval_return": -864.9587500000001,
+    "success_rate_eval": 0.5016666666666667,
+    "exploration_efficiency": 140.33495011434718,
+    "mean_reward_all": -892.1240000000004
+  },
+  "Expected SARSA": {
+    "average_reward_last100": -827.1025000000003,
+    "episodes_to_stability": 545,
+    "cumulative_reward": -1242811.3500000003,
+    "computational_time_sec": 5.533657208987279,
+    "stability_std_last100": 138.44886445453426,
+    "policy_quality_eval_return": -856.6037500000002,
+    "success_rate_eval": 0.5014583333333333,
+    "exploration_efficiency": 255.6581398267851,
+    "mean_reward_all": -887.7223928571431
+  },
+  "Dyna-Q": {
+    "average_reward_last100": -811.2170000000002,
+    "episodes_to_stability": 678,
+    "cumulative_reward": -1217580.1000000006,
+    "computational_time_sec": 13.881448500003899,
+    "stability_std_last100": 132.2562945987827,
+    "policy_quality_eval_return": -820.2887500000003,
+    "success_rate_eval": 0.52875,
+    "exploration_efficiency": 245.67189258120257,
+    "mean_reward_all": -869.7000714285718
+  }
+}

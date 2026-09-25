@@ -1,0 +1,26 @@
+=== greedy eval episode 0 ===
+t=  1  phase=NS-green   t_green=3  N:█....  S:██...  E:.....  W:█....  a=0 r= -4.00
+t=  2  phase=NS-green   t_green=4  N:█....  S:█....  E:█....  W:█....  a=1 r= -4.00
+t=  3  phase=NS-green   t_green=4  N:.....  S:.....  E:█....  W:█....  a=0 r= -2.00
+t=  4  phase=EW-green   t_green=0  N:.....  S:.....  E:.....  W:.....  a=1 r= -0.35
+t=  5  phase=EW-green   t_green=1  N:.....  S:██...  E:.....  W:█....  a=1 r= -3.00
+t=  6  phase=EW-green   t_green=2  N:█....  S:███..  E:.....  W:.....  a=0 r= -4.00
+t=  7  phase=EW-green   t_green=3  N:█....  S:███..  E:.....  W:.....  a=1 r= -4.00
+t=  8  phase=EW-green   t_green=4  N:██...  S:████.  E:.....  W:.....  a=0 r= -6.00
+t=  9  phase=NS-green   t_green=0  N:█....  S:███..  E:.....  W:█....  a=1 r= -5.35
+t= 10  phase=NS-green   t_green=1  N:.....  S:████.  E:.....  W:█....  a=0 r= -5.00
+t= 11  phase=NS-green   t_green=2  N:.....  S:███..  E:.....  W:███..  a=1 r= -6.00
+t= 12  phase=NS-green   t_green=3  N:█....  S:██...  E:.....  W:███..  a=0 r= -6.00
+t= 13  phase=NS-green   t_green=4  N:.....  S:█....  E:.....  W:███..  a=1 r= -4.00
+t= 14  phase=NS-green   t_green=4  N:██...  S:██...  E:.....  W:███..  a=0 r= -7.00
+t= 15  phase=EW-green   t_green=0  N:██...  S:██...  E:█....  W:██...  a=1 r= -7.35
+t= 16  phase=EW-green   t_green=1  N:██...  S:██...  E:█....  W:█....  a=1 r= -6.00
+t= 17  phase=EW-green   t_green=2  N:███..  S:██...  E:.....  W:.....  a=1 r= -5.00
+t= 18  phase=EW-green   t_green=3  N:███..  S:██...  E:.....  W:.....  a=0 r= -5.00
+t= 19  phase=EW-green   t_green=4  N:████.  S:██...  E:.....  W:.....  a=1 r= -6.00
+t= 20  phase=NS-green   t_green=0  N:███..  S:█....  E:█....  W:.....  a=1 r= -5.35
+t= 21  phase=NS-green   t_green=1  N:███..  S:█....  E:█....  W:.....  a=1 r= -5.00
+t= 22  phase=NS-green   t_green=2  N:██...  S:█....  E:█....  W:.....  a=1 r= -4.00
+t= 23  phase=NS-green   t_green=3  N:██...  S:.....  E:█....  W:.....  a=0 r= -3.00
+t= 24  phase=NS-green   t_green=4  N:██...  S:.....  E:█....  W:.....  a=1 r= -3.00
+t= 25  phase=NS-green   t_green=4  N:█....  S:█....  E:█....  W:█....  a=0 r= -4.00

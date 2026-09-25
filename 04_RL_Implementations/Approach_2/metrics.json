@@ -1,0 +1,19 @@
+{
+  "algorithm": "Q-learning",
+  "n_episodes": 1400,
+  "mean_reward_all": -892.1240000000004,
+  "mean_reward_last100": -858.8855000000004,
+  "std_reward_last100": 138.57583164011677,
+  "cumulative_reward": -1248973.6000000006,
+  "episodes_to_stability": 248,
+  "policy_quality_mean_return": -864.9587500000001,
+  "policy_quality_std_return": 137.749562561692,
+  "eval_success_rate": 0.5016666666666667,
+  "wall_time_sec": 2.2580941670021275,
+  "alpha": 0.12,
+  "gamma": 0.95,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "n_steps": 168000,
+  "exploratory_fraction": 0.23685119047619047
+}

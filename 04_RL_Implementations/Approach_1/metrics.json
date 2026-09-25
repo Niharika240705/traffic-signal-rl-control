@@ -1,0 +1,19 @@
+{
+  "algorithm": "SARSA",
+  "n_episodes": 1400,
+  "mean_reward_all": -890.1535714285718,
+  "mean_reward_last100": -838.8100000000003,
+  "std_reward_last100": 140.72580804529065,
+  "cumulative_reward": -1246215.0000000005,
+  "episodes_to_stability": 740,
+  "policy_quality_mean_return": -870.9150000000002,
+  "policy_quality_std_return": 152.420658130714,
+  "eval_success_rate": 0.4972916666666667,
+  "wall_time_sec": 2.076463417004561,
+  "alpha": 0.12,
+  "gamma": 0.95,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "n_steps": 168000,
+  "exploratory_fraction": 0.23454761904761906
+}

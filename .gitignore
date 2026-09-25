@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Matplotlib cache
+.mplconfig/
+
+# OS specific files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Large media files (tracked separately / uploaded via GitHub Releases)
+*.mp4
+*.mov
+*.avi

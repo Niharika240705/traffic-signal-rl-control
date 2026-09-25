@@ -1,0 +1,9 @@
+OBSERVATIONS
+============
+Best average training reward (last 100): Dyna-Q
+Best greedy evaluation policy: Dyna-Q
+Fastest episodes-to-stability: Q-learning
+Most stable (lowest last-100 std): Dyna-Q
+
+Interpretation notes are expanded in the Technical Project Report (Section 8–10)
+and in 06_Performance_Comparison/comparison_observations.txt.

@@ -1,0 +1,35 @@
+METRIC DEFINITIONS (explicit)
+
+1. Average reward
+   Mean undiscounted episode return over the last 100 training episodes.
+   Return G = sum_{t=0}^{T-1} r_t with T = episode length.
+
+2. Convergence speed / episodes to stability
+   Smallest episode index i such that the 80-episode rolling mean stays within
+   8% of the final-100-episode mean for at least 40 consecutive rolling windows.
+   Smaller is faster convergence.
+
+3. Cumulative reward
+   Sum of episode returns over the entire training run. Reflects both
+   transient (exploration) and asymptotic performance.
+
+4. Computational time
+   Wall-clock seconds for the training loop on the host machine
+   (time.perf_counter).
+
+5. Stability / variance
+   Standard deviation of episode return over the last 100 training episodes.
+   Lower is more stable.
+
+6. Policy quality
+   Mean return of the greedy policy (ε = 0) over 40 independent evaluation
+   episodes with fixed evaluation seeds.
+
+7. Success rate
+   Fraction of evaluation time-steps in which total occupancy across the four
+   approaches is ≤ 6 (queues 'under control', no chronic congestion).
+
+8. Exploration efficiency
+   (mean_reward_last100 − mean_reward_all) / exploratory_action_fraction.
+   Measures how much late-training improvement was obtained per unit of
+   exploration during learning.

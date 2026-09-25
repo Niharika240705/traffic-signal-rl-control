@@ -1,0 +1,21 @@
+{
+  "algorithm": "Dyna-Q",
+  "n_episodes": 1400,
+  "mean_reward_all": -869.7000714285718,
+  "mean_reward_last100": -811.2170000000002,
+  "std_reward_last100": 132.2562945987827,
+  "cumulative_reward": -1217580.1000000006,
+  "episodes_to_stability": 678,
+  "policy_quality_mean_return": -820.2887500000003,
+  "policy_quality_std_return": 118.37669559899663,
+  "eval_success_rate": 0.52875,
+  "wall_time_sec": 13.881448500003899,
+  "alpha": 0.12,
+  "gamma": 0.95,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "n_planning": 8,
+  "n_steps": 168000,
+  "model_sa_pairs": 18603,
+  "exploratory_fraction": 0.23805357142857142
+}
